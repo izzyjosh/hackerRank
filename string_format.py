@@ -6,7 +6,7 @@
 
 #that should be the format of the output in only five lines
 
-name = "qq"
+name = input("enter a word: ")
 s_let = []
 cap_let = []
 dig = []

@@ -42,4 +42,4 @@ def max_dist_to_closest_person(arr:list) -> int:
 			print(f"maximum distance = {len(arr)-1-n}")
 
 
-max_dist_to_closest_person([ 1,  0, 1, 0, 0, 1])
+max_dist_to_closest_person([ 1,  0, 1, 0, 0,0, 0, 0, 0, 0, 0, 1])

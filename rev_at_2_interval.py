@@ -5,8 +5,7 @@
 
 #asked in leetcode
 
-s = "abcdefghijklmno"
-k = 2
+s = "abcdefg"
 arr = [i for i in s]
 for i in range(0, len(s), 4):
 	n = arr[i]
