@@ -25,3 +25,4 @@ for j in range(i+1):
 	print((sign * n).center(int(dimension[1]), "-"))
 	n -= 2
 	
+print("")
